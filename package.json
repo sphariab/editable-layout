@@ -19,7 +19,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://gitname.github.io/editable-layout",
+  "homepage": "http://sphariab.github.io/editable-layout",
   "eslintConfig": {
     "extends": "react-app"
   },

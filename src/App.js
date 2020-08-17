@@ -5,7 +5,7 @@ import Input from './components/Input'
 
 function App() {
   return (
-    <Router>
+    <Router basename={`${process.env.PUBLIC_URL}/`}>
       <div>
         <Switch>
           <Route exact path="/layout" component={Layout} />
