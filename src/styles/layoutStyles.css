@@ -1,0 +1,46 @@
+.row {
+  display: flex;
+}
+
+.columnButton {
+  width: 50px;
+  padding: 0;
+  height: 40px;
+  border-radius: 4px;
+  font-size: 14px;
+  cursor: pointer;
+  outline: none;
+  margin: 0 15px 50px 0;
+  background-position: center;
+}
+
+.text {
+  font-size: 16px;
+  letter-spacing: 0.9;
+  font-family: 'Helvetica';
+  margin: 5px;
+}
+
+.textarea-text {
+  border: 1px solid gray;
+}
+
+.oneColumn {
+  background-image: url(../images/one-column.png);
+  background-repeat: no-repeat;
+}
+
+.twoColumn {
+  background-image: url(../images/one-column.png);
+  background-repeat: repeat-x;
+  background-position: left;
+}
+
+.threeColumn {
+  background-image: url(../images/three-column.png);
+  background-repeat: no-repeat;
+}
+
+.page-wrapper{
+  padding: 20px 30px;
+}
