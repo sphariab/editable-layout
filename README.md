@@ -2,7 +2,7 @@ This is simple react app where you can add some your text and split it into 1-2-
 You can just put cursor to a middle of the column for instance and write something
 Edited text is saved, when switching view, you can see my modified text
 
-LIVE DEMO: http://localhost:3000/layout
+LIVE DEMO: https://sphariab.github.io/editable-layout/
 
 Install: npm install
 Run: npm start
